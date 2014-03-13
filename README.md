@@ -17,11 +17,3 @@ training-counterbalanced.py.
 
 4. There should be an output file with your data in if you used either of
 the testing scripts.
-
-5. IMPORTANT - Do not run it directly from SWR, drag the testing script onto the desktop and run from there. If you have two or more participants, it may not save properly as only only one user account can access the server at any one time.
-
-File specifics
---------------
-
-Look at the participant_allocation sheet to determine what stimuli
-presentation you need.
