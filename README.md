@@ -1,4 +1,4 @@
-psycho-constraints
+Constraints
 ==================
 
 Project: Does sleep enhance memory consolidation of second order phonotactic constraints.
